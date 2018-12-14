@@ -1,1 +1,12 @@
-hello World!
+Adriana Johansson!
+
+Interface: IRestCarService, IHelloService
+Exceptions:I min CarForm (webClient) GetCarById etc.
+
+Jag har valt NetTcpBindning, BasicHttpBinding
+
+CarForm - GetCarById om de ej stämmer så kommer de få detta meddelande "Failed to connect to service, try again!";
+
+
+
+
